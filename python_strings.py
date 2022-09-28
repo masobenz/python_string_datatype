@@ -29,9 +29,9 @@ print(my_first_name, my_last_name, my_year_of_birth, current_year)
 print(my_first_name)
 print(my_last_name)
 print(my_first_name[0])
-print(my_last_name[1])
-#print(my_first_name[0,1])
-#print(my_last_name[1,2])
+print(my_last_name[-6])
+print(my_first_name[0:2])
+print(my_last_name[-2:])
 
 
 #TODO Combining Strings
