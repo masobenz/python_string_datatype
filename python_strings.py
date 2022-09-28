@@ -33,6 +33,8 @@ print(my_last_name[-6])
 print(my_first_name[0:2])
 print(my_last_name[-2:])
 
+print("ff")
+
 
 #TODO Combining Strings
 #   - Print the following items (one per line) (print using variables)
